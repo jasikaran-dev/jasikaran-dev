@@ -1,24 +1,35 @@
-## Hi, I'm Jasikaran 👋
+# Hi 👋, I'm Jasikaran
 
-I'm a Software Engineer & Web Application Developer with hands-on experience in building complete business systems.
+**Software Engineer & Web Application Developer**  
+I build production-ready business systems using PHP & MySQL.
 
-### 💼 What I Do
-- Web Application Development
-- Business System Automation
-- Secure PHP & MySQL Applications
+---
 
-### 🛠 Tech Stack
-- PHP
-- MySQL
-- HTML, CSS, JavaScript
-- Bootstrap
+## 🧰 Tech Stack
+**Back-end:** PHP • MySQL  
+**Front-end:** HTML • CSS • JavaScript • Bootstrap  
+**Tools:** Git • VS Code • XAMPP
 
-### 📂 Projects
-- Tk Constructions – Office Management System
-- POS & Billing System
-- Labor Management System
+---
 
-### 🌐 Portfolio
-https://unique-gelato-6895b1.netlify.app/
+## 🚀 Projects (Click to explore)
 
-📫 Contact: jasikaran2004@gmail.com
+### 🔹 [Tk Constructions – Office Management System](https://github.com/jasikaran-dev/tk-construction-system)
+Automated office system with role-based access, invoices, employee records.
+
+### 🔹 [POS & Billing System](https://github.com/jasikaran-dev/pos-billing-system)
+Point of Sale system with real-time billing & inventory tracking.
+
+### 🔹 [Labor Management System](https://github.com/jasikaran-dev/labor-management-system)
+Complete labor task & billing management dashboard.
+
+---
+
+## 🌐 Portfolio
+👉 https://unique-gelato-6895b1.netlify.app/
+
+---
+
+## 📫 Contact
+📧 jasi40094@gmail.com
+
